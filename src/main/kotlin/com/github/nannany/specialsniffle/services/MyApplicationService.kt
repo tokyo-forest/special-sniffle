@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nannany.specialsniffle.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nannany.specialsniffle.MyBundle
 
 class MyApplicationService {
 
